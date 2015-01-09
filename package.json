@@ -1,0 +1,10 @@
+{
+  "name": "MigrationScript",
+  "description": "INF4375 AUT 2014 TP1",
+  "author": "Jude SEIDE SEIJ04019006",
+  "version": "0.0.1",
+  "dependencies": {
+    "xmldom": "~0.1.13",
+	"mongodb": "*"
+  }
+}
